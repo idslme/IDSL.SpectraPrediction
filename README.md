@@ -1,6 +1,6 @@
 # IDSL.SpectraPrediction
 
-Predicting MS/MS spectra for chemical compounds using machine learning and quantum chemistry methods.
+Predicting MS/MS spectra for chemical compounds using machine learning (ML) and quantum chemistry (QC) methods.
 
 For a given list of Name, SMILES and ESI Adduct, we can predict the MS/MS spectra using machine learning and QC methods. Those spectra will be uploaded and shared via the zenodo.org database. 
 

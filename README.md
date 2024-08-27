@@ -8,8 +8,6 @@ Post a chemical list to the issues section ( https://github.com/idslme/IDSL.Spec
 
 MS/MS Spectra are predicted using MS-PRED and ICEBERG framework ( https://github.com/samgoldman97/ms-pred/tree/main ) and QCxMS ( https://github.com/qcxms/QCxMS ). 
 
-- "ICEBERG predicts spectra at the level of molecular fragments, whereas SCARF predicts spectra at the level of chemical formula. In order to fairly compare various spectra models, we implement a number of baselines and alternative models using equivalent settings across models (i.e., same covariates, hyeprparmaeter sweeps for each, etc.)" 
-- "QCxMS is a quantum chemical (QC) based program that enables users to calculate mass spectra (MS) using Born-Oppenheimer Molecular Dynamics (MD). It is the successor of the QCEIMS program, in which the EI part is exchanged to x (x=EI, CID) to account for the greater general applicability of the program." (  https://xtb-docs.readthedocs.io/en/latest/qcxms_doc/qcxms.html  ) 
 
 ## Citations
 

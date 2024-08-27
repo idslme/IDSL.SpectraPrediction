@@ -11,7 +11,8 @@ MS/MS Spectra are predicted using MS-PRED and ICEBERG framework ( https://github
 
 ## Citations
 
-- ️️️️ ❄️ ICEBER️️G ❄️: [Inferring CID by Estimating Breakage Events and Reconstructing their Graphs](http://arxiv.org/abs/2304.13136) Goldman, Samuel, Janet Li, and Connor W. Coley. "Generating molecular fragmentation graphs with autoregressive neural networks." Analytical Chemistry 96.8 (2024): 3419-3428.
+- ️️️️ ❄️ ICEBER️️G ❄️: [Inferring CID by Estimating Breakage Events and Reconstructing their Graphs](http://arxiv.org/abs/2304.13136)
+-  Goldman, Samuel, Janet Li, and Connor W. Coley. "Generating molecular fragmentation graphs with autoregressive neural networks." Analytical Chemistry 96.8 (2024): 3419-3428.
 -   Koopman, Jeroen, and Stefan Grimme. "From QCEIMS to QCxMS: A tool to routinely calculate CID mass spectra using molecular dynamics." Journal of the American Society for Mass Spectrometry 32.7 (2021): 1735-1751. 
 
 

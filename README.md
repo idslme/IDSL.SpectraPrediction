@@ -6,7 +6,7 @@ For a given list of Name, SMILES and ESI Adduct, we can predict the MS/MS spectr
 
 An example of predicted spectra for Metabolon's data dictionary (Open-Access Publications https://zenodo.org/records/10974865 ) is made available at (Zenodo link). 
 
-Submit a chemical list to the issues section ( https://github.com/idslme/IDSL.SpectraPrediction/issues ). Example input format is available here https://github.com/idslme/IDSL.SpectraPrediction/blob/main/IDSL_spectra_prediction_input_format_august_2024.csv . 
+Submit a chemical list to the issues section ( https://github.com/idslme/IDSL.SpectraPrediction/issues ). Example input format is available here https://github.com/idslme/IDSL.SpectraPrediction/blob/main/IDSL_spectra_prediction_input_format_august_2024.csv . Our team will simulate the spectra and reply back with the Zenodo.org accession. 
 
 MS/MS Spectra are predicted using the MS-PRED and ICEBERG framework ( https://github.com/samgoldman97/ms-pred/tree/main ) and QCxMS ( https://github.com/qcxms/QCxMS ). 
 

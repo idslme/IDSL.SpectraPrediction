@@ -1,8 +1,9 @@
 # IDSL.SpectraPrediction
 
-Predicting MS/MS spectra for chemical compounds using machine learning (ML) and quantum chemistry (QC) methods.
+Predicting MS/MS spectra for chemical compounds using machine learning (ML) methods.
 
-For a given list of Name, SMILES and ESI Adduct, we can predict the MS/MS spectra using machine learning and QC methods. Those spectra will be uploaded and shared via the Zenodo.org repository. 
+For a given list of Name, SMILES and ESI Adduct, we can predict the MS/MS spectra using machine learning. Additional columns will be added into the spectra metadata block. 
+Those spectra will be uploaded and shared via the Zenodo.org repository. 
 
 An example of predicted spectra for Metabolon's data dictionary (Open-Access Publications https://zenodo.org/records/10974865 ) is made available at (Zenodo link). 
 
